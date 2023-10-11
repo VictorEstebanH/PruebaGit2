@@ -13,6 +13,7 @@ public class PruebaGit2 {
         
         int resta=m-n;
         int multiplicacion=m*n;
+        int division;
         
         System.out.println(suma);
         System.out.println(resta);
