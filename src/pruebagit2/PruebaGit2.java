@@ -12,9 +12,11 @@ public class PruebaGit2 {
         int suma = n+m;
         
         int resta=m-n;
+        int multiplicacion=m*n;
         
         System.out.println(suma);
         System.out.println(resta);
+        System.out.println(multiplicacion);
     }
     
 }
